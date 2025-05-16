@@ -108,4 +108,4 @@ int heuristic(int x1, int y1, int x2, int y2) {
 5. Implement more efficient priority queue handling
 
 ### License
-MIT License - Free for academic and commercial use with attribution.
+GNU General Public License v3.0 - Free for academic and commercial use with attribution.
