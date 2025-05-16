@@ -95,6 +95,9 @@ int heuristic(int x1, int y1, int x2, int y2) {
 ![967daf50-5334-4f6b-9527-af4308a3b2f1](https://github.com/user-attachments/assets/0eead2bc-a250-4a05-a145-75162b77aaa8)
 
 ---
+![Graph](https://github.com/user-attachments/assets/9cc94eca-49c7-4e50-9e1a-b01a82d3e787)
+
+---
 
 ## Possible Improvements
 
