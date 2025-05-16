@@ -88,6 +88,11 @@ int heuristic(int x1, int y1, int x2, int y2) {
 }
 ```
 
+---
+![a_-search-algorithm-2](https://github.com/user-attachments/assets/67f19771-85a3-4cf9-9f9c-355df105d2bd)
+
+---
+
 ## Possible Improvements
 
 1. Add path smoothing algorithms (e.g., Bézier curves)
