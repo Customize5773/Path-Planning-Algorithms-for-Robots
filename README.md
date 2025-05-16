@@ -92,6 +92,9 @@ int heuristic(int x1, int y1, int x2, int y2) {
 ![a_-search-algorithm-2](https://github.com/user-attachments/assets/67f19771-85a3-4cf9-9f9c-355df105d2bd)
 
 ---
+![967daf50-5334-4f6b-9527-af4308a3b2f1](https://github.com/user-attachments/assets/0eead2bc-a250-4a05-a145-75162b77aaa8)
+
+---
 
 ## Possible Improvements
 
